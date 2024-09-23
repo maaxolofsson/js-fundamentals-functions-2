@@ -67,7 +67,7 @@ function improveRecipe(ingredients, portions) {
   })
   return ingredients
 }
-console.log(improveRecipe({ eggs: 2, milk: 100, sugar: 200 }, 3))
+
 // Don't change the code below this line
 module.exports = {
   timerStatus /* eslint-disable-line no-undef */,
